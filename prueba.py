@@ -1,15 +1,12 @@
 from openal import * 
 import time
 
-AUDIO_DIRECTORY = "audio\\"
+AUDIO_PATH = "audio\\"
 
-source = oalOpen(AUDIO_DIRECTORY + "rain.wav")
+audio = oalOpen(AUDIO_PATH + "tv_noise.wav")
+audio.play()
 
-source.set_position((0.0, 0.0, -1000000.0))
-
-source.play()
-
-while source.get_state() == AL_PLAYING:
+while audio.get_state() == AL_PLAYING:
 	time.sleep(1)
 
 oalQuit()
