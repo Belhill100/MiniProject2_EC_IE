@@ -4,8 +4,13 @@ from openal import *
 # import the time module, for sleeping during playback
 import time
 
+AUDIO_DIRECTORY = "audio\\"
+
 # open our wave file
-source = oalOpen("test.wav")
+source = oalOpen(AUDIO_DIRECTORY + "rain.wav")
+
+# Configura la posición del sonido (derecha)
+source.set_position((1.0, 0.0, 0.0))  # (x, y, z)
 
 # and start playback
 source.play()
