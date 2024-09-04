@@ -15,7 +15,7 @@ Entras rápidamente a ver lo que te espera y descubres que esta puerta te llevab
 Después de correr por un largo rato te encuentras con una pequeña casa y te preguntas que deberías hacer.
 $-----------------------------------------
 rain.wav
-arriba
+izquierda
 1. Entras a la casa silenciosamente
 2. Preguntas fuertemente si hay alguien dentro de la casa
 3. Sigues corriendo, ignorando la casa
@@ -23,12 +23,16 @@ $-----------------------------------------
 1.2
 Abres la puerta y entra una fuerte ventisca que te dificulta entrar hacia ella, pero lo logras. Quedas inmediatamente empapado por lo fuerte lluvia que hacia en ese lugar, al parecer estas en una selva frondosa. Esta demasiado oscuro y no tiene ni idea de que hacer.
 $-----------------------------------------
+chains.wav
+eco
 1. Te quedas ahí
 2. Decides avanzar hacia donde sea
 $-----------------------------------------
 1.3
 Pasas a través de la puerta y te encuentras en Nueva York. Revisas la puerta por la que entraste y es simplemente la entrada trasera a un bar conocido como “MacLaren's Pub”. Esto te deja aún más atónito sobre la situación, aunque te da un poco de tranquilidad estar una ciudad del mundo y no secuestrado en algún lugar en específico.
 $-----------------------------------------
+chains.wav
+eco
 1. Entras al bar
 2. Caminas por la calle
 $-----------------------------------------
