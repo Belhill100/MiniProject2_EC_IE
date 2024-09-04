@@ -1,0 +1,35 @@
+1
+Despiertas de un largo sueño y no sabes donde te encuentras. Miras a tu alrededor y no encuentras a nadie con quien hablar. Estas solo en un cuarto completamente vacío, pero encuentras unas puertas frente a ti.
+¿Qué es esto? – te preguntas, de manera tranquila pero completamente confundido sin entender lo que está pasando.
+Luego escuchas una fuerte voz que te grita - ¡ESCOGE RÁPIDO ANTES DE QUE SEA TARDE! -.
+Preocupado por tu situación lees rápidamente lo que pone arriba de cada puerta.
+$-----------------------------------------
+tv_noise.wav
+derecha
+1. Personas que te hacen sonreír el corazón
+2. El gran tesoro del mundo
+3. Simplemente una puerta
+$-----------------------------------------
+1.1
+Entras rápidamente a ver lo que te espera y descubres que esta puerta te llevaba a un campo enorme de rosas, un paisaje deslumbrante el cual nunca habías visto en tu vida. Tu primera sensación es de seguridad y felicidad, te alegra enormemente haber escogido la mejor puerta de todas. Decides acostarte y disfrutar de la suave ventisca mientras miras el despejado cielo del lugar en el que te hayas. Después del gran estupor, reaccionas inmediatamente a lo que ocurre. Estas en un sitio desconocido y ni siquiera te acuerdas de como llegaste ahí. Recoges todas tus cosas y empiezas a correr hacia donde apunta el sol.
+Después de correr por un largo rato te encuentras con una pequeña casa y te preguntas que deberías hacer.
+$-----------------------------------------
+rain.wav
+arriba
+1. Entras a la casa silenciosamente
+2. Preguntas fuertemente si hay alguien dentro de la casa
+3. Sigues corriendo, ignorando la casa
+$-----------------------------------------
+1.2
+Abres la puerta y entra una fuerte ventisca que te dificulta entrar hacia ella, pero lo logras. Quedas inmediatamente empapado por lo fuerte lluvia que hacia en ese lugar, al parecer estas en una selva frondosa. Esta demasiado oscuro y no tiene ni idea de que hacer.
+$-----------------------------------------
+1. Te quedas ahí
+2. Decides avanzar hacia donde sea
+$-----------------------------------------
+1.3
+Pasas a través de la puerta y te encuentras en Nueva York. Revisas la puerta por la que entraste y es simplemente la entrada trasera a un bar conocido como “MacLaren's Pub”. Esto te deja aún más atónito sobre la situación, aunque te da un poco de tranquilidad estar una ciudad del mundo y no secuestrado en algún lugar en específico.
+$-----------------------------------------
+1. Entras al bar
+2. Caminas por la calle
+$-----------------------------------------
+1.1.1
