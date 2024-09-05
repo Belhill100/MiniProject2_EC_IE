@@ -1,0 +1,217 @@
+1
+
+
+
+Despiertas de un largo sueño y no sabes donde te encuentras. Miras a tu alrededor y no encuentras a nadie con quien hablar. Estas solo en un cuarto completamente vacío, pero encuentras unas puertas frente a ti.
+
+¿Qué es esto? – te preguntas, de manera tranquila pero completamente confundido sin entender lo que está pasando.
+
+Luego escuchas una fuerte voz que te grita - ¡ESCOGE RÁPIDO ANTES DE QUE SEA TARDE! -.
+Preocupado por tu situación lees rápidamente lo que pone arriba de cada puerta.
+$-----------------------------------------
+clock-ticking.wav
+Gain-Pitch
+
+1. Personas que te hacen sonreír el corazón
+2. El gran tesoro del mundo
+3. Simplemente una puerta
+
+¿Qué puertas eliges?
+$-----------------------------------------
+1.1
+
+Entras rápidamente a ver lo que te espera y descubres que esta puerta te llevaba a un campo enorme de rosas, un paisaje deslumbrante el cual nunca habías visto en tu vida. Tu primera sensación es de seguridad y felicidad, te alegra enormemente haber escogido la mejor puerta de todas. Decides acostarte y disfrutar de la suave ventisca mientras miras el despejado cielo del lugar en el que te hayas. Después del gran estupor, reaccionas inmediatamente a lo que ocurre. Estas en un sitio desconocido y ni siquiera te acuerdas de como llegaste ahí. Recoges todas tus cosas y empiezas a correr hacia donde apunta el sol.
+
+Después de correr por un largo rato te encuentras con una pequeña casa y te preguntas que deberías hacer.
+$-----------------------------------------
+nature-ambience.wav
+Gain
+
+1. Entras a la casa silenciosamente
+2. Preguntas fuertemente si hay alguien dentro de la casa
+3. Sigues corriendo, ignorando la casa
+
+¿Qué opción eliges?
+$-----------------------------------------
+1.1.1
+
+La ventana está abierta, aprovechas para ingresar por ahí. La casa se ve antigua pero bien cuidada, aunque realmente pareciera que no tiene alma, todo es muy genérico, sala genérica, comedor genérico, no hay ni cuadros ni retratos de quien podría estar viviendo ahí. Sigues revisando la casa y escuchas el ruido que genera la estática de un televisor sin señal, eso te dio la esperanza de que alguien estuviera ahí anteriormente. Subes las escaleras y te encuentras a una chica durmiendo, pero con una cadena en su muñeca que la encadena directamente al piso. 
+$-----------------------------------------
+tv_noise.wav
+L
+
+1. Acercas tu mano a la cadena
+2. Decides escapar de la casa
+
+¿Que decisión tomas?
+$-----------------------------------------
+1.1.1.1
+
+Entras sin hacer ningún tipo de ruido y al tocar la cadena con tu mano se deshace como si fuera acido. La cadena cae fuertemente y despierta a la chica que estaba durmiendo.
+
+¿Qué estás haciendo? – te pregunta exaltada.
+
+Perdón, solo quería ayudarte y entender… 
+
+¿Y no se te ocurrió despertarme primero? 
+
+Lo lamento, pero mira que ya estas desencadenada 
+
+Bueno… tienes razón. Gracias, eres la primera persona que intento ayudarme.
+$-----------------------------------------
+chains.wav
+FW
+
+1. ¿Me puedes explicar dónde estamos?
+2. Vámonos rápido de aquí
+
+¿Que contestas?
+$-----------------------------------------
+1.1.1.1.1
+
+Estamos dentro de un mundo artificial, no sé muy bien cómo se creó, pero definitivamente esto no es del todo real. 
+
+¿Quién creo esto? Es demasiado grande para que alguien creara esto. Además, que tengo que ver yo con esto. 
+
+Realmente no tengo muchas respuestas, solo sé que tuve como un accidente y luego aparecí aquí encadenada. Pero estoy segura de que nada de esto es real. 
+
+Suena un fuerte ruido de azote de una puerta. 
+
+¿Qué fue ese ruido? 
+
+Salgamos corriendo por la ventana, hay una escalera al lado para bajar
+$-----------------------------------------
+door-slam.wav
+DOWN-R
+
+1. Vale, vamos corriendo antes de que nos descubran
+
+¿Que vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1
+
+Sales corriendo de la casa y te metes en una parte de donde la maleza está muy alta, se acercan a un lago y sientes que algo te pincha el pie, esto te trasmite el sentimiento como cuando te pasa la corriente por todo el cuerpo.
+$-----------------------------------------
+zap.wav
+DOWN
+
+1. Te revisas el pie y te lo limpias con el agua del lago
+2. Aprovechas el agua para hidratarte 
+
+¿Que decides hacer?
+$-----------------------------------------
+1.1.1.1.1.1.1
+
+Te sientas al borde del lago y levantas el pie para examinarlo. Hay una pequeña marca roja, similar a una picadura. Sumerges el pie en el agua fría del lago, esperando que la calma del agua alivie la extraña sensación. Sin embargo, tan pronto como el agua toca la herida, sientes una vibración en el agua. De repente, notas que el agua comienza a moverse de manera extraña, formando círculos que crecen a medida que pasa el tiempo.
+$-----------------------------------------
+water-waves.wav
+FW-Pitch
+1. Retroceder rápidamente y esconderte entre la maleza 
+2. Quedarte quieto y esperar a ver qué emerge del agua 
+3. Nadar hacia el centro del lago para alejarte de la figura 
+
+¿Que decision tomar?
+$-----------------------------------------
+1.1.1.1.1.1.1.1
+
+Mientras retrocedes hacia la maleza, el sonido de tu respiración agitada se mezcla con el crujir de las hojas secas bajo tus pies. Al esconderte, escuchas el suave chapoteo del agua mientras la figura se acerca a la orilla, seguido de un leve susurro que parece venir del viento, como si alguien estuviera murmurando palabras que no puedes entender.
+$-----------------------------------------
+leaves.wav
+DOWN-Pitch
+1. Retroceder rápidamente y esconderte entre la maleza 
+2. Quedarte quieto y esperar a ver qué emerge del agua 
+3. Nadar hacia el centro del lago para alejarte de la figura 
+
+¿Que decision tomar?
+$-----------------------------------------
+1.2
+
+Abres la puerta y entra una fuerte ventisca que te dificulta entrar hacia ella, pero lo logras. Quedas inmediatamente empapado por lo fuerte lluvia que hacía en ese lugar, al parecer estas en una selva frondosa. Esta demasiado oscuro y no tiene ni idea de que hacer.
+$-----------------------------------------
+rain.wav
+UP
+
+1. Te quedas ahí
+2. Decides avanzar hacia donde sea
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.2.1
+
+Te da bastante sueño por lo cual buscas unas hojas para cobijarte, pero realmente no logras conciliar el sueño. A tu lado encuentras una fruta con un aspecto parecido a una manzana y con una etiqueta que dice: “Cómeme”.
+$-----------------------------------------
+leaves.wav
+FW
+
+1. Comes la manzana y te acuestas.
+2. La dejas a un lado y sigues intentando dormir.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.2.1.1
+
+Te da bastante sueño por lo cual buscas unas hojas para cobijarte, pero realmente no logras conciliar el sueño. A tu lado encuentras una fruta con un aspecto parecido a una manzana y con una etiqueta que dice: “Cómeme”.
+$-----------------------------------------
+leaves.wav
+FW
+
+1. Comes la manzana y te acuestas.
+2. La dejas a un lado y sigues intentando dormir.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3
+
+Pasas a través de la puerta y te encuentras en Nueva York. Revisas la puerta por la que entraste y es simplemente la entrada trasera a un bar conocido como “MacLaren's Pub”. Esto te deja aún más atónito sobre la situación, aunque te da un poco de tranquilidad estar una ciudad del mundo y no secuestrado en algún lugar en específico.
+$-----------------------------------------
+NYC.wav
+FW
+
+1. Entras al bar
+2. Caminas por la calle
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.1
+
+Decides entrar al bar para obtener más información. Al atravesar la puerta principal, sientes una cálida ráfaga de aire mezclada con el olor a cerveza y comida frita. El lugar está lleno de gente, con conversaciones y risas que llenan el ambiente. Te diriges hacia la barra, donde el camarero, un hombre amigable de mediana edad, te sonríe y te pregunta: "¿Qué te traigo?". A lo lejos, notas un grupo de personas sentadas en una mesa, que parecen estar observándote con interés.
+$-----------------------------------------
+chatter.wav
+FW-Gain
+
+1. Hablar con el camarero y preguntarle si sabe algo sobre la puerta trasera
+2. Acercarte al grupo de personas que te observan
+3. Sentarte solo en una mesa y observar el ambiente
+
+¿Que harás?
+$-----------------------------------------
+1.3.1.1
+
+Decides hablar con el camarero. "Hola, ¿puedes decirme algo sobre la puerta trasera?", le preguntas. Él frunce el ceño y responde: "¿La puerta trasera? Rara vez se usa… pero ¿por qué preguntas?". El camarero te entrega una llave y te señala una puerta en el fondo del bar.
+$-----------------------------------------
+keys-jingling.wav
+L
+
+1. Abrir la puerta y explorar el pasillo oscuro.
+2. Dejar la llave y volver al bar.
+
+¿Que haces?
+$-----------------------------------------
+1.3.1.1.1
+
+Encuentras un pasillo oscuro que conduce a una luz brillante. Mientras caminas, el pasillo se estrecha, y sientes una mezcla de miedo y curiosidad. 
+
+Al llegar a la luz, te das cuenta de que es un túnel del tiempo y que te has transportado a tu infancia. Tienes una segunda oportunidad para vivir tu vida con conocimiento del futuro.
+$-----------------------------------------
+steps.wav
+DOWN
+$-----------------------------------------
+1.3.1.1.2
+
+Decides no arriesgarte y dejas la llave en la barra. Observas a las personas a tu alrededor y notas que todo parece una puesta en escena. 
+
+Encuentras una puerta de emergencia y la cruzas. Despiertas en un hospital, habías estado en coma durante años.
+$-----------------------------------------
+beep.wav
+R
+$-----------------------------------------
