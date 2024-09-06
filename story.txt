@@ -28,7 +28,6 @@ nature-ambience.wav
 Gain
 
 1. Entras a la casa silenciosamente
-3. Sigues corriendo, ignorando la casa
 
 ¿Qué vas a hacer?
 $-----------------------------------------
