@@ -28,7 +28,6 @@ nature-ambience.wav
 Gain
 
 1. Entras a la casa silenciosamente
-2. Preguntas fuertemente si hay alguien dentro de la casa
 3. Sigues corriendo, ignorando la casa
 
 ¿Qué vas a hacer?
@@ -163,6 +162,25 @@ Te quedas inmóvil, escuchando el sonido del agua goteando mientras la figura em
 $-----------------------------------------
 water-waves.wav
 DOWN-Pitch
+
+1. Te mueves para disipar el zumbido
+2. Te quedas a comprender la situación
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.1.2.1
+
+El zumbido se vuelve insoportable mientras la figura se acerca. Sientes que tu mente comienza a desvanecerse con el sonido. Justo cuando estás a punto de perder el conocimiento, una chispa de electricidad salta de los ojos de la figura, iluminando el aire alrededor de ella. En ese instante, te invade una claridad repentina. Corres hacia el bosque antes de que la figura pueda reaccionar, sintiendo que te persiguen, pero sin mirar atrás. Escapas, pero el sonido del zumbido permanece en tu cabeza, recordándote que algo quedó atrás contigo.
+$-----------------------------------------
+zap.wav
+BH-Pitch
+$-----------------------------------------
+1.1.1.1.1.1.1.2.2
+
+La figura se detiene frente a ti, su brillo azul envolviéndote. No puedes moverte ni hablar, pero una extraña conexión parece formarse entre sus ojos y los tuyos. De repente, el zumbido se detiene, y la figura extiende una mano hacia ti. Cuando la tocas, sientes una corriente que recorre tu cuerpo y tu mente se inunda con recuerdos de lugares y personas que nunca conociste. El mundo se desvanece a tu alrededor, y despiertas en un lugar completamente diferente, sin saber si estás soñando o si has sido transportado a otro mundo.
+$-----------------------------------------
+zap.wav
+BH-Pitch
 $-----------------------------------------
 1.1.1.1.1.1.1.2
 
@@ -170,6 +188,25 @@ Te lanzas al agua y comienzas a nadar frenéticamente hacia el centro del lago. 
 $-----------------------------------------
 water-waves.wav
 DOWN-Pitch
+
+1. Decides nadar freneticamente para escapar
+2. Te quedas inmóvil
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.1.3.1
+
+Mientras nadas frenéticamente, el zumbido bajo el agua aumenta hasta convertirse en un rugido ensordecedor. Sientes que algo te atrapa desde abajo, arrastrándote hacia las profundidades. Intentas luchar, pero la fuerza es demasiado grande. De repente, todo se calma, y encuentras que estás flotando en un espacio oscuro y vasto, sin agua, sin sonido, solo tú y un vacío infinito. Una voz desconocida susurra: "Bienvenido... al otro lado".
+$-----------------------------------------
+water-waves.wav
+BH-Pitch
+$-----------------------------------------
+1.1.1.1.1.1.1.3.2
+
+El agua alrededor comienza a hervir y burbujear. Justo cuando piensas que te hundirás, sientes una corriente ascendente que te eleva rápidamente hacia la superficie. Salgas del agua jadeando y tosiendo, y descubres que has emergido en un lago completamente diferente, rodeado de montañas nevadas. La vibración aún resuena en tus huesos, pero estás solo. El zumbido ha cesado, pero sabes que algo ha cambiado profundamente dentro de ti y en el mundo que te rodea.
+$-----------------------------------------
+water-waves.wav
+DOWN
 $-----------------------------------------
 1.1.1.1.1.1.2
 
@@ -255,7 +292,13 @@ $-----------------------------------------
 El zumbido en tu lengua se vuelve casi insoportable mientras avanzas por la orilla del lago. De repente, el agua comienza a arremolinarse a tu alrededor. Los golpes metálicos se hacen más rápidos y fuertes, como un tambor de guerra lejano. Sientes una corriente que tira de tus pies, y al mirar hacia abajo, ves que el agua empieza a teñirse de un oscuro color rojo. Retrocedes rápidamente, pero algo invisible te sujeta por las piernas. Luchas por liberarte, sintiendo que el agua te arrastra hacia las profundidades.
 $-----------------------------------------
 water-waves.wav
-Pitchs
+Pitch
+$-----------------------------------------
+1.1.1.1.1.1.2.3.2
+
+Sigues caminando a lo largo del lago, y el eco de los golpes se hace más cercano. A lo lejos, ves una figura junto a la orilla, inclinada sobre algo que brilla en la luz de la luna. Sin poder resistir la curiosidad, te acercas lentamente. De repente, el zumbido en tu lengua se detiene, y todo queda en silencio. La figura se endereza y se gira hacia ti, revelando un rostro que no deberías conocer, pero que es inconfundible: el tuyo. Antes de que puedas reaccionar, un destello de luz te envuelve, y la figura se lanza hacia ti, disolviéndose en una nube de electricidad pura. Sientes que te absorbe, y luego... nada.
+$-----------------------------------------
+creepy-ambient.wav
 $-----------------------------------------
 1.2
 
@@ -299,15 +342,97 @@ FW
 $-----------------------------------------
 1.2.2
 
-Te da bastante sueño por lo cual buscas unas hojas para cobijarte, pero realmente no logras conciliar el sueño. A tu lado encuentras una fruta con un aspecto parecido a una manzana y con una etiqueta que dice: “Cómeme”.
+Al avanzar a ciegas, sientes el terreno irregular bajo tus pies y el sonido de la lluvia golpeando las hojas densas a tu alrededor. La oscuridad es casi total, apenas puedes ver algunos destellos de luz entre los árboles mientras el trueno ruge en la distancia. La sensación de humedad y el olor a tierra mojada llenan el aire. A medida que te adentras más en la selva, escuchas una mezcla de sonidos: el croar de ranas, el zumbido de insectos, y un extraño crujido que sigue tus pasos. 
+
+Finalmente, llegas a un claro donde se escucha el sonido de un río cercano. La tormenta arrecia y el viento comienza a mover los árboles de manera violenta. Miras a tu alrededor y descubres que hay tres posibles caminos:
 $-----------------------------------------
-leaves.wav
+rain.wav
 FW
 
-1. Comes la manzana y te acuestas.
-2. La dejas a un lado y sigues intentando dormir.
+1. Seguir el sonido del río
+2. Buscar refugio bajo un árbol grande
+3. Explorar la maleza más densa
 
 ¿Qué vas a hacer?
+$-----------------------------------------
+1.2.2.1
+
+Podrías dirigirte hacia el sonido del agua, esperando que el río te lleve a algún lugar seguro o al menos te proporcione una fuente de agua potable. Sin embargo, con la tormenta en curso, el río podría ser peligroso, y hay un riesgo de que crezca rápidamente con la lluvia. Pero no sabes por cual orilla deberías ir ya que cada vez es más ancho el rio por lo cual luego será difícil de cruzar.
+$-----------------------------------------
+jungle.wav
+FW
+
+1. Cruzas a la otra orilla
+2. Bajas por la orilla en la que estas
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.2.2.1.1
+
+Sigues el río con determinación, pero la corriente es demasiado fuerte. Al intentar cruzarlo, un tronco gigante es arrastrado por el agua y te golpea, haciéndote caer. Luchas por mantenerte a flote, pero la corriente te arrastra bajo el agua. Cuando logras salir a la superficie, estás en un lugar diferente, más oscuro, donde el río se bifurca en varias direcciones. A tu alrededor, ves figuras luminosas entre los árboles, flotando sin hacer ruido, como si te estuvieran observando. No sabes si estás a salvo o si has cruzado a un mundo diferente.
+$-----------------------------------------
+water-waves.wav
+BH-Pitch
+$-----------------------------------------
+1.2.2.1.2
+
+Sigues el sonido del río y llegas a su orilla. El agua fluye con fuerza debido a la tormenta, pero notas una pequeña barca amarrada a un tronco. Decides usarla para seguir el curso del río. A medida que avanzas, la tormenta comienza a calmarse. De repente, escuchas voces humanas en la distancia. Resulta ser un grupo de exploradores locales que han acampado río abajo. Te ayudan a llegar a un lugar seguro, explicándote que esta selva es un terreno peligroso para los no iniciados, pero que tu valentía de seguir el río te ha llevado hasta ellos.
+$-----------------------------------------
+rain.wav
+FW
+$-----------------------------------------
+1.2.2.2
+
+Podrías intentar encontrar un lugar donde protegerte de la lluvia. Ves un árbol de copa amplia que podría ofrecer algo de cobertura, aunque no sabes qué criaturas podrían estar buscando refugio allí también. Además, la tormenta podría hacer caer ramas o incluso derribar el árbol.
+$-----------------------------------------
+rain.wav
+FW
+
+1. Subes a la copa del árbol
+2. Te quedas abajo para hacer refugio
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.2.2.2.1
+
+Te refugias subiendo el árbol, esperando que la lluvia cese. Sin embargo, con cada ráfaga de viento, el tronco cruje de manera inquietante. Justo cuando crees que estás a salvo, escuchas un crujido más fuerte y una de las ramas superiores se rompe. Intentas correr, pero la rama cae rápidamente, golpeándote en el hombro y dejándote inconsciente. Al despertar, te das cuenta de que estás atrapado bajo las ramas. La tormenta ha pasado, pero estás herido y antes de que caiga la noche de nuevo seguramente no podrás sobrevivir...
+$-----------------------------------------
+jungle.wav
+FW
+$-----------------------------------------
+1.2.2.2.2
+
+Te acercas al árbol grande y te refugias bajo su copa. A medida que la tormenta continúa, notas que el tronco del árbol tiene una pequeña abertura, lo suficientemente grande como para que te agaches y te metas dentro. Encuentras una pequeña cavidad en el interior, seca y protegida. Pasas la noche allí, y al amanecer, la tormenta cesa. Desde tu posición elevada, puedes ver un sendero no muy lejos. Con nueva energía, sigues el sendero y encuentras una salida de la selva, guiado por un rayo de sol que penetra las nubes.
+$-----------------------------------------
+jungle.wav
+FW
+$-----------------------------------------
+1.2.2.3
+
+Podrías aventurarte hacia la parte más densa de la selva, donde la vegetación es más espesa. Quizás encuentres un sendero escondido o algo que te oriente. Pero, al adentrarte más, corres el riesgo de perderte completamente o de encontrarte con algún animal peligroso en la oscuridad.
+$-----------------------------------------
+rain.wav
+FW
+
+1. Tomas el camino con un pasto denso en la izquierda
+2. Tomas el camino por donde hay más cantidad de árboles a la derecha
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.2.2.3.1
+
+Te adentras en la maleza más densa, empujando ramas y hojas a un lado. A medida que avanzas, encuentras un sendero escondido que parece haber sido transitado recientemente. Sigues el sendero hasta llegar a una cueva oculta, con luces parpadeantes en su interior. Al entrar, descubres que la cueva alberga una antigua civilización perdida con artefactos y tesoros. Pero también notas que alguien ha estado aquí recientemente, y no estás solo.
+$-----------------------------------------
+walking-in-the-woods.wav
+Pitch
+$-----------------------------------------
+1.2.2.3.2
+
+Decides explorar la selva densa, creyendo que encontrarás algún rastro que te guíe. Sin embargo, cuanto más avanzas, más espesa se vuelve la vegetación. Sientes que te rodean ruidos extraños y movimientos entre los arbustos. Comienzas a sentirte desorientado, y ya no puedes distinguir el camino de regreso. La noche cae de nuevo y, aunque sigues buscando una salida, la sensación de estar atrapado se intensifica. De repente, escuchas un rugido profundo que hace eco entre los árboles. Estás perdido en la oscuridad, sin saber si podrás encontrar el camino de vuelta.
+$-----------------------------------------
+walking-in-the-woods.wav
+FW
+FIN
 $-----------------------------------------
 1.3
 

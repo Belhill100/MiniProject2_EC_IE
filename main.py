@@ -1,6 +1,7 @@
 from openal import *
+import time
 
-story_point = '1.1.1.1.1.1.2.3.1'
+story_point = '1'
 
 AUDIO_PATH = "audio\\"
 
@@ -22,6 +23,9 @@ def play_audio(audio_name, audio_fx):
 			player.set_gain(2.5)
 		case "BH":
 			audio.set_direction((0,0,-1))
+		case "BH-Pitch":
+			audio.set_direction((0,0,-1))
+			audio.set_pitch(0.7)
 		case "R":
 			audio.set_position((1,0,0))
 		case "L":
@@ -65,3 +69,4 @@ with open('story.txt', 'r', encoding='utf-8') as file:
 							oalQuit()
 							break
 					break
+				
