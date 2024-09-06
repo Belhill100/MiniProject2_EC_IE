@@ -31,19 +31,28 @@ Gain
 2. Preguntas fuertemente si hay alguien dentro de la casa
 3. Sigues corriendo, ignorando la casa
 
-¿Qué opción eliges?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.1.1
 
 La ventana está abierta, aprovechas para ingresar por ahí. La casa se ve antigua pero bien cuidada, aunque realmente pareciera que no tiene alma, todo es muy genérico, sala genérica, comedor genérico, no hay ni cuadros ni retratos de quien podría estar viviendo ahí. Sigues revisando la casa y escuchas el ruido que genera la estática de un televisor sin señal, eso te dio la esperanza de que alguien estuviera ahí anteriormente. Subes las escaleras y te encuentras a una chica durmiendo, pero con una cadena en su muñeca que la encadena directamente al piso. 
 $-----------------------------------------
-tv_noise.wav
+static-noise.wav
 L
 
 1. Acercas tu mano a la cadena
 2. Decides escapar de la casa
 
-¿Que decisión tomas?
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.2
+
+Mientras escapas de la casa, te adentras en el campo desolado, buscando desesperadamente ayuda o una salida. El paisaje es vacío y opresivo, y cada sonido parece amplificado por la soledad del lugar. 
+
+Un rugido gutural y profundo emerge de la casa. Al mirar hacia atrás, ves una figura oscura y monstruosa saliendo de la casa, con un sonido amenazador que se asemeja a un gruñido creciente. La figura avanza rápidamente hacia ti. Aceleras tu marcha, pero el campo parece extenderse interminablemente. Finalmente, sientes un dolor punzante y el sonido de una respiración pesada detrás de ti. La figura te alcanza y te arrastra de vuelta a la casa, donde te encuentras encadenado junto a la chica. La casa se cierra a tu alrededor, y el sonido de cadenas y gritos se mezcla con la estática del televisor que ahora llena el ambiente.
+$-----------------------------------------
+door-slam.wav
+R
 $-----------------------------------------
 1.1.1.1
 
@@ -65,7 +74,7 @@ FW
 1. ¿Me puedes explicar dónde estamos?
 2. Vámonos rápido de aquí
 
-¿Que contestas?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.1.1.1.1
 
@@ -86,7 +95,16 @@ DOWN-R
 
 1. Vale, vamos corriendo antes de que nos descubran
 
-¿Que vas a hacer?
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.2
+
+La chica asiente con rapidez, claramente ansiosa por escapar. Te toma de la mano y ambos salen corriendo de la habitación, atravesando un largo pasillo. A medida que avanzan, las luces parpadean y un fuerte viento comienza a soplar. Escuchas voces susurrando y risas inquietantes a tu alrededor.
+
+Mientras corren, una sombra enorme aparece bloqueando la salida. La chica te dice que es el guardián del lugar y que hay que enfrentarlo. Decides luchar, y después de una dura batalla, logran vencerlo. Sin embargo, al salir, te das cuenta de que la chica se queda atrás, atrapada por una fuerza invisible. Ella te sonríe tristemente y te dice que nunca podrá salir, pero agradece tu intento de ayudarla. La puerta se cierra, dejando a la chica dentro, mientras tú logras escapar al mundo exterior.
+$-----------------------------------------
+door-slam.wav
+R
 $-----------------------------------------
 1.1.1.1.1.1
 
@@ -98,7 +116,7 @@ DOWN
 1. Te revisas el pie y te lo limpias con el agua del lago
 2. Aprovechas el agua para hidratarte 
 
-¿Que decides hacer?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.1.1.1.1.1.1
 
@@ -106,11 +124,12 @@ Te sientas al borde del lago y levantas el pie para examinarlo. Hay una pequeña
 $-----------------------------------------
 water-waves.wav
 FW-Pitch
+
 1. Retroceder rápidamente y esconderte entre la maleza 
 2. Quedarte quieto y esperar a ver qué emerge del agua 
 3. Nadar hacia el centro del lago para alejarte de la figura 
 
-¿Que decision tomar?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.1.1.1.1.1.1.1
 
@@ -118,11 +137,125 @@ Mientras retrocedes hacia la maleza, el sonido de tu respiración agitada se mez
 $-----------------------------------------
 leaves.wav
 DOWN-Pitch
-1. Retroceder rápidamente y esconderte entre la maleza 
-2. Quedarte quieto y esperar a ver qué emerge del agua 
-3. Nadar hacia el centro del lago para alejarte de la figura 
 
-¿Que decision tomar?
+1. Te quedas a revisar que pasa con ese ente
+2. Decides alejarte
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.1.1.1
+
+La figura se detiene justo en la orilla, su forma vagamente visible en la penumbra. El murmullo ininteligible se vuelve más fuerte, transformándose en un cántico hipnótico que parece resonar en tu mente. Sientes una extraña calma y, casi sin darte cuenta, te levantas de tu escondite y avanzas hacia la orilla. Antes de que puedas reaccionar, un par de manos frías emergen del agua y te arrastran bajo la superficie. Todo se desvanece en un silencio oscuro y opresivo.
+$-----------------------------------------
+creepy-ambient.wav
+FW
+$-----------------------------------------
+1.1.1.1.1.1.1.1.2
+
+Mientras te escondes, decides alejarte en silencio. Sin embargo, un sonido seco, como el crujido de una rama, revela tu posición. La figura se da vuelta bruscamente y el murmullo se detiene. Te paralizas por un segundo, pero decides correr. La figura se abalanza hacia ti con una rapidez inhumana. Justo cuando te alcanza, el viento se intensifica, un resplandor cegador llena el aire, y despiertas en medio de la noche, solo en tu cama, sin recordar cómo llegaste allí.
+$-----------------------------------------
+creepy-ambient.wav
+FW
+$-----------------------------------------
+1.1.1.1.1.1.1.2
+
+Te quedas inmóvil, escuchando el sonido del agua goteando mientras la figura emerge lentamente. A medida que se acerca, oyes un zumbido bajo, casi como el de un enjambre de insectos, que se hace más fuerte a medida que la figura se aproxima. Sus ojos brillan con un resplandor azul que parece resonar con el zumbido.
+$-----------------------------------------
+water-waves.wav
+DOWN-Pitch
+$-----------------------------------------
+1.1.1.1.1.1.1.2
+
+Te lanzas al agua y comienzas a nadar frenéticamente hacia el centro del lago. El agua salpica a tu alrededor, y puedes oír el sonido del agua cortada por tus brazos. De repente, el zumbido eléctrico bajo el agua aumenta de volumen y sientes una vibración que parece emanar desde el fondo del lago.
+$-----------------------------------------
+water-waves.wav
+DOWN-Pitch
+$-----------------------------------------
+1.1.1.1.1.1.2
+
+Decides que quizás es mejor ignorar la sensación en tu pie por ahora. Te inclinas hacia el lago y tomas un poco de agua en tus manos, llevándola a tus labios. El agua es fría y refrescante, pero al segundo sorbo, sientes un extraño hormigueo en tu lengua, como si estuvieras bebiendo una chispa de electricidad. Entonces, escuchas un crujido proveniente de la maleza detrás de ti. Te giras rápidamente, solo para ver sombras moviéndose entre los arbustos.
+$-----------------------------------------
+leaves.wav
+BH
+
+1. Correr hacia la parte más densa de la maleza para esconderte
+2. Subir a un árbol cercano para tener una mejor vista del área
+3. Seguir el borde del lago en busca de una salida o un lugar seguro
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.2.1
+
+Sales corriendo hacia la maleza, sintiendo el crujido de las ramas bajo tus pies. A medida que te adentras más en la vegetación, oyes cómo el sonido de tus pasos se mezcla con el de ramas que se rompen y hojas que se agitan. Al detenerte para escuchar, oyes el susurro de hojas moviéndose como si alguien más estuviera cerca, siguiéndote silenciosamente.
+$-----------------------------------------
+walking-in-the-woods.wav
+Pitch
+
+1. Corres aún más rápido.
+2. Te quedas quieto.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.2.1.1
+
+El sonido de los pasos se acerca, cada vez más nítido. Sientes que el corazón te late con fuerza mientras intentas mantener la respiración. De repente, las ramas frente a ti se separan y una figura emerge de entre la maleza. Pero, en lugar de una amenaza, es un niño con mirada asustada. Te das cuenta de que está perdido como tú, huyendo de algo desconocido.
+
+Decides ayudarlo, y juntos corren hacia lo desconocido, sin saber si se están acercando o alejando del peligro...
+$-----------------------------------------
+walking-in-the-woods.wav
+Pitch
+$-----------------------------------------
+1.1.1.1.1.1.2.1.2
+
+Mientras te quedas quieto, escuchando atentamente, el ruido de los pasos se detiene también. El silencio es abrumador, pero entonces, sientes un toque frío en tu hombro. Te giras rápidamente, pero no hay nadie allí. Sin embargo, la maleza detrás de ti se mueve como si alguien estuviera corriendo a tu alrededor. De repente, te das cuenta de que el sonido proviene de todas partes, y un escalofrío te recorre al comprender que no estás siendo seguido por una persona, sino por algo que juega contigo. Y ya es demasiado tarde para correr...
+$-----------------------------------------
+walking-in-the-woods.wav
+Pitch
+$-----------------------------------------
+1.1.1.1.1.1.2.2
+
+Comienzas a trepar al árbol, escuchando el raspado de tu ropa contra la corteza y el suave crujido de las ramas al soportar tu peso. Desde lo alto, oyes el viento soplar a través de las hojas, seguido por el susurro de las figuras encapuchadas, que parecen murmurar entre sí en un idioma desconocido.
+$-----------------------------------------
+leaves.wav
+Pitch
+
+1. Sigues subiendo el árbol para ver mejor
+2. Decides mejor bajar un poco para escuchar y ver lo que tienen entre manos
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.2.2.1
+
+Desde lo alto del árbol, miras a las figuras encapuchadas moverse en círculo. De repente, una de ellas alza la cabeza y parece verte. Se detiene el murmullo, y el resto también levanta la vista. Sientes su atención clavada en ti. Una de las figuras hace un gesto con la mano, y una ráfaga de viento te sacude, casi tirándote del árbol. Las ramas comienzan a crujir peligrosamente. Te das cuenta de que no puedes permanecer allí por mucho tiempo; debes decidir si bajar del árbol o saltar y correr hacia la oscuridad del bosque.
+$-----------------------------------------
+strong-wind.wav
+DOWN
+$-----------------------------------------
+1.1.1.1.1.1.2.2.2
+
+Mientras escuchas los murmullos desde arriba, notas que uno de los encapuchados sostiene algo en las manos. Levanta un objeto brillante hacia el cielo, y un rayo de luz corta la oscuridad. De repente, sientes que el aire se vuelve pesado, y una extraña energía comienza a envolver el árbol. Las hojas empiezan a temblar, y las ramas crujen con un sonido profundo. Te das cuenta de que están realizando un ritual, y tú eres parte de él, atrapado sin posibilidad de escapar.
+$-----------------------------------------
+creepy-ambient.wav
+DOWN
+$-----------------------------------------
+1.1.1.1.1.1.2.3
+
+Caminas con rapidez por la orilla del lago, oyendo el chapoteo suave de tus pies en el agua poco profunda. Mientras avanzas, un ligero eco se escucha a lo lejos, como si alguien estuviera golpeando madera con un objeto metálico. El zumbido en tu lengua aumenta, y el brillo del agua se hace más intenso, como un susurro eléctrico a tu alrededor.
+$-----------------------------------------
+walking-water.wav
+Pitch
+
+1. Te revisas la lengua
+2. Sigues caminando por la orilla
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.1.1.1.1.1.2.3.1
+
+El zumbido en tu lengua se vuelve casi insoportable mientras avanzas por la orilla del lago. De repente, el agua comienza a arremolinarse a tu alrededor. Los golpes metálicos se hacen más rápidos y fuertes, como un tambor de guerra lejano. Sientes una corriente que tira de tus pies, y al mirar hacia abajo, ves que el agua empieza a teñirse de un oscuro color rojo. Retrocedes rápidamente, pero algo invisible te sujeta por las piernas. Luchas por liberarte, sintiendo que el agua te arrastra hacia las profundidades.
+$-----------------------------------------
+water-waves.wav
+Pitchs
 $-----------------------------------------
 1.2
 
@@ -149,6 +282,22 @@ FW
 ¿Qué vas a hacer?
 $-----------------------------------------
 1.2.1.1
+
+La manzana te hace sentir muy somnoliento y al despertar, te encuentras en la misma selva, pero todo ha cambiado sutilmente. Los sonidos y colores son más intensos y la vegetación parece tener una extraña vibración. Sientes que la manzana te ha inducido a un estado alterado de percepción, y ahora la selva parece estar en un estado de constante cambio.  
+
+Quedas condenado a navegar por este entorno incierto mientras intentas entender cómo la fruta afectó tu percepción de la selva.
+$-----------------------------------------
+jungle.wav
+FW
+$-----------------------------------------
+1.2.1.2
+
+Decides no comer la manzana y, aunque la selva es ruidosa, logras dormir bien. En tu sueño, tienes visiones de antiguos guardianes de la selva y descubres que la manzana era un objeto de prueba para determinar tu conexión con el entorno. Al despertar, la selva parece más acogedora y te sientes en sintonía con su ritmo. Te das cuenta de que tienes una conexión especial con la naturaleza que te ayudará a explorar la selva y protegerla.
+$-----------------------------------------
+jungle.wav
+FW
+$-----------------------------------------
+1.2.2
 
 Te da bastante sueño por lo cual buscas unas hojas para cobijarte, pero realmente no logras conciliar el sueño. A tu lado encuentras una fruta con un aspecto parecido a una manzana y con una etiqueta que dice: “Cómeme”.
 $-----------------------------------------
@@ -183,7 +332,7 @@ FW-Gain
 2. Acercarte al grupo de personas que te observan
 3. Sentarte solo en una mesa y observar el ambiente
 
-¿Que harás?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.3.1.1
 
@@ -195,7 +344,7 @@ L
 1. Abrir la puerta y explorar el pasillo oscuro.
 2. Dejar la llave y volver al bar.
 
-¿Que haces?
+¿Qué vas a hacer?
 $-----------------------------------------
 1.3.1.1.1
 
@@ -203,7 +352,7 @@ Encuentras un pasillo oscuro que conduce a una luz brillante. Mientras caminas, 
 
 Al llegar a la luz, te das cuenta de que es un túnel del tiempo y que te has transportado a tu infancia. Tienes una segunda oportunidad para vivir tu vida con conocimiento del futuro.
 $-----------------------------------------
-steps.wav
+inverse-clock.wav
 DOWN
 $-----------------------------------------
 1.3.1.1.2
@@ -214,4 +363,167 @@ Encuentras una puerta de emergencia y la cruzas. Despiertas en un hospital, hab�
 $-----------------------------------------
 beep.wav
 R
+$-----------------------------------------
+1.3.1.2
+
+Te acercas lentamente al grupo de personas que te han estado mirando. Ellos te sonríen, pero hay algo en sus miradas que te hace sentir incómodo. Uno de ellos, una mujer de cabello oscuro te dice: "¿Vienes buscando algo… o quizás escapando de algo?". Sus palabras te desconciertan y te hacen sentir que ellos saben más de lo que dejan entrever. Después de mirarte fijamente y escanearte al completo te ofrece unirte a ellos.
+$-----------------------------------------
+chatter.wav
+FW
+
+1. Aceptar unirte a la sociedad secreta.
+2. Rechazar su oferta y seguir tu camino.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.1.2.1
+
+Te conviertes en un miembro activo de la sociedad, entrenando y aprendiendo a usar los portales. 
+
+Logras completar todas tus misiones y te conviertes en el líder de la sociedad, viajando constantemente entre mundos para proteger el equilibrio.
+$-----------------------------------------
+clapping.wav
+FW
+$-----------------------------------------
+1.3.1.2.2
+
+Sales del bar, y al caminar por la calle, te das cuenta de que has vuelto a tu ciudad natal, pero nadie parece reconocerte. 
+
+Intentas encontrar respuestas, pero descubres que has sido borrado de todas las memorias y registros.
+$-----------------------------------------
+steps.wav
+DOWN
+$-----------------------------------------
+1.3.1.3
+
+Prefieres sentarte en una mesa alejada y observar el bar. Notas que hay algo inusual en el ambiente: algunos de los clientes parecen estar fuera de lugar, las paredes se estiran, las luces se apagan y las personas se convierten en muñecos mecánicos. Sientes que estas dentro de una ilusión.
+$-----------------------------------------
+creepy-ambient.wav
+FW
+
+1. Decidir despertar y salir de la ilusión.
+2. Permanecer en la ilusión y explorar más.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.1.3.1
+
+Despiertas en un lugar oscuro y frío. Una voz te dice que estás en una dimensión entre mundos, donde las almas se pierden. 
+
+Te pierdes en la dimensión y te conviertes en una sombra más en el bar.
+$-----------------------------------------
+creepy-ambient.wav
+FW
+$-----------------------------------------
+1.3.1.3.2
+
+Decides quedarte y explorar. El hombre de traje se acerca a ti y te ofrece respuestas a tus preguntas a cambio de tu memoria. 
+
+Aceptas el trato y descubres secretos inimaginables, pero pierdes todos tus recuerdos.
+$-----------------------------------------
+zap.wav
+R
+$-----------------------------------------
+1.3.2
+
+Optas por salir a la calle, buscando respuestas en el exterior. A tu alrededor, el sonido del tráfico neoyorquino es ensordecedor: taxis tocando la bocina, el zumbido de la multitud caminando rápidamente, y vendedores ambulantes gritando sus ofertas. Pasas frente a una pantalla gigante que muestra noticias locales, y una sensación extraña te envuelve cuando ves una breve mención de una desaparición misteriosa ocurrida muy cerca del lugar donde estás.
+$-----------------------------------------
+NYC.wav
+FW
+
+1. Seguir caminando hacia la plaza más cercana
+2. Entrar en una tienda de recuerdos para preguntar por direcciones
+3. Dirigirte a una cabina telefónica para hacer una llamada
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.2.1
+
+Decides seguir caminando hasta la plaza más cercana. A medida que te acercas, los sonidos de la ciudad cambian: oyes a músicos callejeros tocando, y las risas de niños jugando. Sin embargo, sientes una vibración bajo tus pies, como si algo se estuviera moviendo debajo del suelo y al frente encuentras una fuente con una inscripción que dice: "El agua de este lugar revela la verdad."
+$-----------------------------------------
+street-music.wav
+FW
+
+1. Beber el agua de la fuente.
+2. Ignorar la fuente y seguir caminando.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.2.1.1
+
+Tomas un sorbo del agua y te sientes abrumado por visiones del pasado y del futuro. 
+
+Te das cuenta de que puedes cambiar el futuro con la información que has obtenido, pero también despiertas en una realidad alternativa.
+$-----------------------------------------
+water-waves.wav
+DOWN
+$-----------------------------------------
+1.3.2.1.2
+
+Decides no beber el agua y continúas caminando por la ciudad. 
+
+Llegas a una calle familiar y descubres que nunca dejaste tu ciudad natal; todo fue una alucinación.
+$-----------------------------------------
+chatter.wav
+FW-Gain
+$-----------------------------------------
+1.3.2.2
+
+Entras en una tienda de recuerdos para pedir direcciones o alguna pista de dónde te encuentras exactamente. El dueño de la tienda, un hombre anciano con gafas te mira fijamente y te dice: "Tengo un amuleto que puede alterar el tiempo". Te das cuenta de que él puede saber más de lo que parece.
+$-----------------------------------------
+door-bell.wav
+UP
+
+1. Usar el amuleto para regresar al pasado.
+2. Rechazar el amuleto.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.2.2.1
+
+Regresas al pasado para cambiar una decisión importante. 
+
+Logras cambiar el pasado, pero al regresar al presente, te das cuenta de que has creado una línea temporal divergente. Y te empiezas a desvanecer hasta que dejas de existir.
+$-----------------------------------------
+inverse-clock.wav
+L
+$-----------------------------------------
+1.3.2.2.2
+
+Decides no confiar en el anciano y salir de la tienda. 
+
+Al salir, el mundo parece ligeramente diferente, como si algo hubiera cambiado sin tu intervención, todos los vidrios de lugar que saliste se rompen y te cortan hasta desangrarte.
+$-----------------------------------------
+glass-shatter.wav
+FW
+$-----------------------------------------
+1.3.2.3
+
+Decides buscar una cabina telefónica para hacer una llamada. Encuentras una en la esquina y levantas el auricular. Al poner la moneda, escuchas un crujido estático y luego una voz que dice: "Sabíamos que llegarías aquí...". Un escalofrío te recorre la espalda. Esa voz te advierte que debes regresar al bar o quedarás atrapado.
+$-----------------------------------------
+static-noise.wav
+R
+
+1. Correr de regreso al bar.
+2. Decidir quedarte y enfrentar lo que viene.
+
+¿Qué vas a hacer?
+$-----------------------------------------
+1.3.2.3.1
+
+Regresas al bar justo a tiempo y cruzas la puerta antes de que se cierre definitivamente. 
+
+Todo vuelve a la normalidad, pero sientes que algo dentro de ti ha cambiado para siempre. 
+$-----------------------------------------
+door-slam.wav
+R
+$-----------------------------------------
+1.3.2.3.2
+
+Te niegas a seguir la advertencia y cuelgas el teléfono. 
+
+El mundo a tu alrededor se oscurece, y te das cuenta de que te estás disolviendo en la nada. 
+$-----------------------------------------
+creepy-ambient.wav
+FW
 $-----------------------------------------

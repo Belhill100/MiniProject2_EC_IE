@@ -1,6 +1,6 @@
 from openal import *
 
-story_point = '1.3'
+story_point = '1.1.1.1.1.1.2.3.1'
 
 AUDIO_PATH = "audio\\"
 
@@ -20,6 +20,8 @@ def play_audio(audio_name, audio_fx):
 		case "FW-Gain":
 			audio.set_direction((0,0,1))
 			player.set_gain(2.5)
+		case "BH":
+			audio.set_direction((0,0,-1))
 		case "R":
 			audio.set_position((1,0,0))
 		case "L":
@@ -38,6 +40,8 @@ def play_audio(audio_name, audio_fx):
 		case "Gain-Pitch":
 			player.set_gain(2.5)
 			audio.set_pitch(1.5)
+		case "Pitch":
+			audio.set_pitch(2)
 
 user_option = ''
 audio_name = ""
